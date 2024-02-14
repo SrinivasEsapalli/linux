@@ -3,7 +3,7 @@
 -shell is an os between user and kernel(os)
 -shell scripting mainly used for repetative work. back uping files and monitoring system resources.
 
-## writing the code
+## writing the code 
 ### "nano" editor
 -we can edit in nano script
 -nano scriptname.sh
