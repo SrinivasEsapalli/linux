@@ -73,6 +73,7 @@ sum=$(($1+$2))
 
 #printing sum
 echo "sum: $sum"
+
 ![screenshot](https://github.com/SrinivasEsapalli/linux/blob/master/shell_script/practise/Screenshorts/screen%201.jpg)
 
 
