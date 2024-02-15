@@ -86,10 +86,11 @@ Print a greeting message for a person using command line arguments
 Sample Output:
 ./scriptname.sh some_name
 Welcome some_name!!!!
-![screenshot](https://github.com/SrinivasEsapalli/linux/blob/master/shell_script/practise/Screenshorts/Screen%202.jpg)
-##########
-# For inserting the name using commandline
+
+########### For inserting the name using command line
 echo "welcome $1!!!!"
+
+![screenshot](https://github.com/SrinivasEsapalli/linux/blob/master/shell_script/practise/Screenshorts/Screen%202.jpg)
 
 
 
