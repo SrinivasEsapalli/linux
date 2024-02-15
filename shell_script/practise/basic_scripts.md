@@ -73,6 +73,8 @@ sum=$(($1+$2))
 
 #printing sum
 echo "sum: $sum"
+![screenshot](https://github.com/SrinivasEsapalli/linux/blob/master/shell_script/practise/Screenshorts/screen%201.jpg)
+
 
 =============================
 
@@ -83,7 +85,7 @@ Print a greeting message for a person using command line arguments
 Sample Output:
 ./scriptname.sh some_name
 Welcome some_name!!!!
-
+![screenshot](https://github.com/SrinivasEsapalli/linux/blob/master/shell_script/practise/Screenshorts/Screen%202.jpg)
 ##########
 # For inserting the name using commandline
 echo "welcome $1!!!!"
