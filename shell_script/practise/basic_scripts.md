@@ -73,7 +73,7 @@ sum=$(($1+$2))
 
 #printing sum
 echo "sum: $sum"
-[screenshot]("https://github.com/SrinivasEsapalli/linux/blob/master/shell_script/practise/Screenshorts/Screen%202.jpg")
+![screenshot]("https://github.com/SrinivasEsapalli/linux/blob/master/shell_script/practise/Screenshorts/Screen%202.jpg")
 =============================
 
 Task-4 c_name
